@@ -1,0 +1,35 @@
+table{
+  border-left: 1px solid #868686;
+  border-bottom: 1px solid #868686;
+  border-top: 1px solid #868686;
+  border-spacing: 0;
+  margin: 0 20px;
+}
+
+table td, th{
+  border-right: 1px solid #868686;
+  padding: 10px 15px;
+}
+
+table button{
+  padding: 5px 10px;
+  margin: 2px;
+}
+
+.table-header{
+  background-color: #629ac0;
+  color: #ffffff;
+  padding: 5px 10px;
+}
+
+.table-body tr:nth-child(even){
+  background-color: #e4e4e4;
+}
+
+.table-body tr:nth-child(odd){
+  background-color: #bebdbd;
+}
+
+.btn-excluir:hover{
+  color: red;
+}
