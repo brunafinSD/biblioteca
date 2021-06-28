@@ -11,5 +11,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Reactjs
 - CSS
 - Nodejs
-- -Axios
+- Axios
 - Sequelize
